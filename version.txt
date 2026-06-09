@@ -1,3 +1,10 @@
-1349
+1335
 https://github.com/wahid0018/GSTSilk/releases/download/Update/GSTSilkUpdate.exe
-New features in this version:\n- Bug fixes\n- Performance improvements
+New Features
+Auto GSTIN Details FIll
+Pdf Link Generate for easy share
+Link with mobile SMS Plane with simple SMS GatewayApp
+New Update Notification
+Easy Whatsapp Invoice Pdf Share
+Packing Slip Lable Print While Entry
+
