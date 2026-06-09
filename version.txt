@@ -1,4 +1,4 @@
-1335
+1350
 https://github.com/wahid0018/GSTSilk/releases/download/Update/GSTSilkUpdate.exe
 New Features
 Auto GSTIN Details FIll
